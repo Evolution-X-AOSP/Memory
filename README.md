@@ -4,9 +4,27 @@
 
 I wanted to do something creative, something no one in the community has ever done.
 
+**How do i participate?**
+
+It's easy!
+
+You make a folder in KeepEvolving folder, name it as your GitHub username!
+
+For Example, KeepEvolving/RealAkito
+
+Then make a file called KeepEvolving.ext (By .ext it can be .txt, .py, .sh, .go, js and much more!) then type KeepEvolving in your own language and your country!
+
+~~ Example ~~
+KeepEvolving.txt
+`進化し続ける - With love from Tokyo, Japan`
+
+(You can make more than one KeepEvolving file, Ex in python as KeepEvolving.py)
+
+**YOU CAN START MAKING PULL REQUEST AND PARTICIPATE WITH US NOW!**
+
 ## Historical Information
 
-**Evolution X, Founded by Joey Huab (Stallix) and currently has 2 co. founders, Akito Mizukito (RealAkito) and Anierin Bliss (AnierinB)**
+**Evolution X, Founded by Joey Huab (Stallix) and has 2 co. founders, Akito Mizukito (RealAkito) and Anierin Bliss (AnierinB)**
 
 
 ### How did Evolution X get founded?
