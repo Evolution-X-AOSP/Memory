@@ -1,40 +1,40 @@
 # Memories of Evolution X
 
-**Why did I create this repository?** (I referred to Akito Mizukito)
+**Why did I create this repository?**
 
-I wanted to do something creative, something no one in the community has ever done.
+Akito Mizukito: I wanted to do something creative, something no one in the community has ever done before.
 
 **How do i participate?**
 
-It's easy!
+It's quite simple actually!
 
-You make a folder in KeepEvolving folder, name it as your GitHub username!
+You create a folder in /KeepEvolving and name it your GitHub username!
 
 For Example, KeepEvolving/RealAkito
 
-Then make a file called KeepEvolving.ext (By .ext it can be .txt, .py, .sh, .go, js and much more!) then type KeepEvolving in your own language and your country!
+Then create a file called KeepEvolving.ext (By .ext it can be .txt, .py, .sh, .go, js and much more!). Then type KeepEvolving in your countries language!
 
 ~~ Example ~~
 KeepEvolving.txt
 `進化し続ける - With love from Tokyo, Japan`
 
-(You can make more than one KeepEvolving file, Ex in python as KeepEvolving.py)
+(You can make more than one KeepEvolving file, E.x in python as KeepEvolving.py)
 
-**YOU CAN START MAKING PULL REQUEST AND PARTICIPATE WITH US NOW!**
+**YOU CAN START MAKING PULL REQUEST'S & PARTICIPATE WITH US NOW!**
 
 ## Historical Information
 
-**Evolution X, Founded by Joey Huab (Stallix) and has 2 co. founders, Akito Mizukito (RealAkito) and Anierin Bliss (AnierinB)**
+**Evolution X, Created by Joey Huab (Stallix) and co. founders, Akito Mizukito (RealAkito) & Anierin Bliss (AnierinB)**
 
 
-### How did Evolution X get founded?
+### Why was Evolution X created?
 
-I (In here, referred to Joey Huab) wanted to have my own version of a Pixel ROM but Pixel Experience beat me to it. So I applied for official maintainership. After getting kicked, I kept doing unofficial builds until I said I should build my own.
+Joey huab: I wanted to build my own version of a Pixel ROM, but Pixel Experience beat me to it. So, I applied for official maintainership. After sometime, my maintainership was revoked. I continued compiling unofficial builds until I decieded that I should build my own ROM. And that's where all this started!
 
-### How did I get kicked from maintaining official Pixel Experience?
+### Why was my device maintainership revoked from Pixel Experience?
 
-Putting VoLTE icon support into official build.
+I included VoLTE icon support into official build.
 
-### What we planned to do next?
+### What do we have planed next?
 
-We're supposed to bringup Android Q for Evolution X (Evolution X Q) once Google publicly release the source codes!
+Evolution X bringup for Android Q (Evolution X Q) once Google publicly release's the source code!
