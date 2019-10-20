@@ -1,0 +1,1 @@
+echo Gelişmeye devam et - With love from Çorum, Turkey
