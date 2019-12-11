@@ -37,4 +37,4 @@ I included VoLTE icon support into an official build.
 
 ### What do we have planned next?
 
-Evolution X bringup for Android Q once Google publicly releases the source codes!
+Make it even better :)
