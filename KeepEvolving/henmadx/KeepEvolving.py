@@ -1,0 +1,1 @@
+print("Dadi Nyata, Dadi Realistis, lan terus tuwuh - with love from Malang, Indonesia")
