@@ -1,2 +1,2 @@
-print("С любовью из Уфы, Россия - With love from Ufa, Russia")
+print("РЎ Р»СЋР±РѕРІСЊСЋ РёР· РЈС„С‹, Р РѕСЃСЃСЃРёСЏ - With love from Ufa, Russia")
 print("And don't forget to evolving :)")
