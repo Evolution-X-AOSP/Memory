@@ -1,0 +1,1 @@
+System.out.println("С любовью из Рубцовска, Россия - With love from Rubtsovsk, Russia.");

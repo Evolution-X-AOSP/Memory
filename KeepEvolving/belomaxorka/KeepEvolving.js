@@ -1,0 +1,1 @@
+console.log('С любовью из Рубцовска, Россия - With love from Rubtsovsk, Russia.');
