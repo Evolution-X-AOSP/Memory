@@ -1,0 +1,5 @@
+package HelloWurst
+import Printing
+
+init
+	print("Alix(SenPai) - With love from Kavar Shiraz, IRAN")

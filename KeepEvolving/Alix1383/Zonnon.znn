@@ -1,0 +1,4 @@
+module HelloWorld;
+begin
+    writeln("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+end HelloWorld.    

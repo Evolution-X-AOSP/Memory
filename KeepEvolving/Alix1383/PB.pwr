@@ -1,0 +1,5 @@
+; Alix(SenPai) - With love from Kavar Shiraz, IRAN in "PowerBatch Plus+" from Computing Systems Design, Inc.
+
+Variable        Msg,13,"Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+
+Write           Msg

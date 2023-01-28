@@ -1,0 +1,4 @@
+ORIGIN '~beta/basiclib/betaenv'
+-- program: Descriptor --
+(* Alix(SenPai) - With love from Kavar Shiraz, IRAN in BETA *)
+(# do 'Alix(SenPai) - With love from Kavar Shiraz, IRAN' -> putLine #)

@@ -1,0 +1,10 @@
+pipeline {
+    agent any
+    stages {
+        stage('Print Message') {
+            steps {
+                echo 'Alix(SenPai) - With love from Kavar Shiraz, IRAN'
+            }
+        }
+    }
+}

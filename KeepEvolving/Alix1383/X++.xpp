@@ -1,0 +1,11 @@
+class classHello
+{
+}
+
+static void main(args Args)
+{
+ dialog dialog;
+ dialog = new dialog();
+ dialog.addText("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+ dialog.run();
+}

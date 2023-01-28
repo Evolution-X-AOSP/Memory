@@ -1,0 +1,3 @@
+function cmd_hello_world() {
+  displayMessage("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+}

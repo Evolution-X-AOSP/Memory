@@ -1,0 +1,9 @@
+name: Alix(SenPai) - With love from Kavar Shiraz, IRAN
+
+on: workflow_dispatch
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo "Alix(SenPai) - With love from Kavar Shiraz, IRAN"

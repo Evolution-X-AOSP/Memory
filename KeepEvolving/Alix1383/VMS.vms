@@ -1,0 +1,4 @@
+$top:
+$write sys$output "Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+$wait 00:00:10
+$goto top

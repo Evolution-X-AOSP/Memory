@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+ printf("Alix(SenPai) - With love from Kavar Shiraz, IRAN\n");
+ return 0;
+}

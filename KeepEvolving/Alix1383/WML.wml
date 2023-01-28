@@ -1,0 +1,6 @@
+#define HELLOWORLD
+  [message]
+    speaker="narrator"
+    message=_"Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+  [/message]
+#enddef

@@ -1,0 +1,2 @@
+(def 'impure main
+     (λ () (putStrLn "Alix(SenPai) - With love from Kavar Shiraz, IRAN")))

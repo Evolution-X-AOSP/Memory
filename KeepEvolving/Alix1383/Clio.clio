@@ -1,0 +1,2 @@
+export fn main argv:
+  "Alix(SenPai) - With love from Kavar Shiraz, IRAN" -> console.log

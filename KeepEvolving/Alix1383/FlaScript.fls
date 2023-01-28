@@ -1,0 +1,4 @@
+main() -> main {
+	print(string) -> "Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+	print(newline)
+} main;

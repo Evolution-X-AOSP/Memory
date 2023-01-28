@@ -1,0 +1,6 @@
+MODULE HelloWorld;                     
+IMPORT Out;
+BEGIN
+  Out.String( "Alix(SenPai) - With love from Kavar Shiraz, IRAN" );
+  Out.Ln;
+END HelloWorld.

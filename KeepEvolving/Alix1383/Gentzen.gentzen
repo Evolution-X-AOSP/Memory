@@ -1,0 +1,5 @@
+<- "stdlib";
+<- "iolib";
+main : () / ($1(iosys) |- $2(++));
+main = [x,y] cut "Alix(SenPai) - With love from Kavar Shiraz, IRAN" [z] outtext x z y;
+-> main;

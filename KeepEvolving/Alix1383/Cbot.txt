@@ -1,0 +1,6 @@
+extern void object::New()
+{
+
+message("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+
+}

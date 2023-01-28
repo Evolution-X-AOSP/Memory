@@ -1,0 +1,15 @@
+// Alix(SenPai) - With love from Kavar Shiraz, IRAN in Lisaac
+
+Section Header
+	+ name		:= HELLO_WORLD;
+
+Section Inherit
+
+	- parent_object:OBJECT := OBJECT;
+
+Section Public
+
+	- main <-
+	(
+		"Alix(SenPai) - With love from Kavar Shiraz, IRAN !\n".print;
+	);

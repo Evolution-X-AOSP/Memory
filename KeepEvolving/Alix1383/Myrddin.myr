@@ -1,0 +1,6 @@
+use std
+
+const main = {
+    std.put("Alix(SenPai) - With love from Kavar Shiraz, IRAN\n")
+}
+

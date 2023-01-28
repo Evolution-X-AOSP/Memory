@@ -1,0 +1,7 @@
+integer
+main(void)
+{
+    o_text("Alix(SenPai) - With love from Kavar Shiraz, IRAN\n");
+ 
+    return 0;
+}

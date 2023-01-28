@@ -1,0 +1,4 @@
+@public
+run = fn () {
+    io.format("Alix(SenPai) - With love from Kavar Shiraz, IRAN~n")
+}

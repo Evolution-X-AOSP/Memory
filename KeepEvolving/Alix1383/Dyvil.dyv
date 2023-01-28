@@ -1,0 +1,4 @@
+class Dyvil
+{
+	static func main(args: [String]) = print 'Alix(SenPai) - With love from Kavar Shiraz, IRAN'
+}

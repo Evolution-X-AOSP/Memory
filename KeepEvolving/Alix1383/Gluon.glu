@@ -1,0 +1,2 @@
+let io = import! std.io
+io.print "Alix(SenPai) - With love from Kavar Shiraz, IRAN"

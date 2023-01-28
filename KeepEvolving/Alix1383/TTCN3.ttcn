@@ -1,0 +1,7 @@
+module HelloWorld
+{
+    control
+    {
+        log("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+    }
+ }

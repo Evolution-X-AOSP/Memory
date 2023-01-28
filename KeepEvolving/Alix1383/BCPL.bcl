@@ -1,0 +1,6 @@
+GET "LIBHDR"
+
+LET START() BE
+$(
+  WRITES("Alix(SenPai) - With love from Kavar Shiraz, IRAN*N")
+$)

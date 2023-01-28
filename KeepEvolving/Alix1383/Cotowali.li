@@ -1,0 +1,5 @@
+fn helloworld(): string {
+  return "Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+}
+
+helloworld()

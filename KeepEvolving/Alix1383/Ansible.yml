@@ -1,0 +1,8 @@
+- name: Print
+  hosts: 127.0.0.1
+  connection: local
+
+  tasks:
+  - name: Print Alix(SenPai) - With love from Kavar Shiraz, IRAN
+    debug:
+      msg: Alix(SenPai) - With love from Kavar Shiraz, IRAN
