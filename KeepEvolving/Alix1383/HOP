@@ -1,0 +1,6 @@
+(define-service (hello-world)
+  (<HTML>
+     (<HEAD>
+        (<TITLE> "Alix(SenPai) - With love from Kavar Shiraz, IRAN"))
+     (<BODY>
+        "Alix(SenPai) - With love from Kavar Shiraz, IRAN")))

@@ -1,0 +1,5 @@
+DEFINE PROCEDURE ''HELLO-WORLD'' [N]:
+BLOCK 0: BEGIN
+     PRINT['Alix(SenPai) - With love from Kavar Shiraz, IRAN']
+BLOCK 0: END.
+HELLO-WORLD[1]; 

@@ -1,0 +1,6 @@
+#include "zcommon.acs"
+
+Script 1 OPEN
+{
+  Print(s: "Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+}

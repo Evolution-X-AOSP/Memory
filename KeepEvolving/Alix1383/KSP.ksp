@@ -1,0 +1,3 @@
+on init
+	message("Alix(SenPai) - With love from Kavar Shiraz, IRAN")
+end on

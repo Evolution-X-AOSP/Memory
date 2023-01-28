@@ -1,0 +1,3 @@
+dimension X;
+put [X:1] -> "Alix(SenPai) - With love from Kavar Shiraz, IRAN";
+output get [X:1];

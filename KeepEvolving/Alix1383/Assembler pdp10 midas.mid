@@ -1,0 +1,17 @@
+	TITLE Alix(SenPai) - With love from Kavar Shiraz, IRAN
+
+A==1
+B==2
+TYO==1
+
+START:	.OPEN TYO,[.UAO,,'TTY]
+	 .LOSE
+	MOVE A,[440700,,HELLO]
+LOOP:	ILDB B,A
+	JUMPE B,[.LOGOUT 1,]
+	.IOT TYO,B
+	JRST LOOP
+
+HELLO:	ASCIZ /Alix(SenPai) - With love from Kavar Shiraz, IRAN/
+
+	END START

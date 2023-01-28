@@ -1,0 +1,10 @@
+! Alix(SenPai) - With love from Kavar Shiraz, IRAN in Centura
+
+Function: HelloWorld
+Description:
+Returns
+Parameters
+Static Variables
+Local variables
+Actions
+ Call SalMessageBox( "Alix(SenPai) - With love from Kavar Shiraz, IRAN",'Message',MB_Ok)

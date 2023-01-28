@@ -1,0 +1,6 @@
+; Alix(SenPai) - With love from Kavar Shiraz, IRAN in "The Harper Programmer"
+; Compiled and tested with version 2.0 Sybex Edition
+
+Variable        Msg,13,"Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+
+Write           Msg

@@ -1,0 +1,5 @@
+import stdio
+
+void main() {
+    putstrz("Alix(SenPai) - With love from Kavar Shiraz, IRAN"z)
+}

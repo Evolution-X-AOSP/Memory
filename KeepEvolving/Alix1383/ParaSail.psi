@@ -1,0 +1,3 @@
+func Hello_World(var IO) is
+    IO.Println("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+end func Hello_World;

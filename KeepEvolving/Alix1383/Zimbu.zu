@@ -1,0 +1,4 @@
+FUNC Main() int
+  IO.write("Alix(SenPai) - With love from Kavar Shiraz, IRAN\n")
+  RETURN 0
+}

@@ -1,0 +1,5 @@
+program HelloWorld
+    function main()
+        SysLib.writeStdout("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+    end
+end

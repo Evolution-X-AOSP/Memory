@@ -1,0 +1,5 @@
+User Function Hello()
+Local cMsg := "Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+conout(cMsg)
+MsgInfo(cMsg)
+Return

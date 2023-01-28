@@ -1,0 +1,4 @@
+(func main (result int)
+  (print "Alix(SenPai) - With love from Kavar Shiraz, IRAN")
+  (return 0)
+)

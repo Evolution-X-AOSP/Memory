@@ -1,0 +1,12 @@
+TITLE Alix(SenPai) - With love from Kavar Shiraz, IRAN;
+
+LET NL=10;
+
+EXT PROC(REF ARRAY BYTE) TWRT;
+
+ENT PROC INT RRJOB();
+
+    TWRT("Alix(SenPai) - With love from Kavar Shiraz, IRAN#NL#");
+    RETURN(1);
+
+ENDPROC;

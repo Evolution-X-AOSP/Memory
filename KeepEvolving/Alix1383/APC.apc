@@ -1,0 +1,4 @@
+probe program
+{
+	on_entry log ("Alix(SenPai) - With love from Kavar Shiraz, IRAN\n");
+}

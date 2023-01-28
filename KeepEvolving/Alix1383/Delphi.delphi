@@ -1,0 +1,8 @@
+// Alix(SenPai) - With love from Kavar Shiraz, IRAN in Delphi
+Program Hello_World;
+
+($APPTYPE CONSOLE)
+
+Begin
+  WriteLn('Alix(SenPai) - With love from Kavar Shiraz, IRAN');
+End.

@@ -1,0 +1,6 @@
+import @std/app
+
+on app.start {
+  app.print("Alix(SenPai) - With love from Kavar Shiraz, IRAN");
+  emit app.exit 0;
+}

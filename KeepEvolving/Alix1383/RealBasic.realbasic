@@ -1,0 +1,4 @@
+Function Run(args() as String) As Integer
+  Print "Alix(SenPai) - With love from Kavar Shiraz, IRAN"
+  Quit
+End Function

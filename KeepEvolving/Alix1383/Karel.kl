@@ -1,0 +1,4 @@
+PROGRAM hello_world
+BEGIN
+  WRITE("Alix(SenPai) - With love from Kavar Shiraz, IRAN", CR)
+END hello_world

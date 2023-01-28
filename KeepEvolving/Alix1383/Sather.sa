@@ -1,0 +1,7 @@
+class MAIN is
+   main is 
+      loop 
+         #OUT + "Alix(SenPai) - With love from Kavar Shiraz, IRAN\n" 
+      end 
+   end
+end
